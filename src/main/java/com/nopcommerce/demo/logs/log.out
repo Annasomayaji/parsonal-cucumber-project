@@ -1,0 +1,6 @@
+2024-01-09 22:01:654 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (a6f8cfb1e14c819edea265323f8f40cf)] -> link text: Log in]
+2024-01-09 22:01:712 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (a6f8cfb1e14c819edea265323f8f40cf)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-01-09 22:01:860 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (abbcccf1edee93852f21d19d867f0375)] -> link text: Log in]
+2024-01-09 22:01:588 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (6557ae5ffc37cd89d97c464a07cbe45a)] -> link text: Log in]
+2024-01-09 22:01:12 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (a7af8c7a3c8b23ec6d1a74e08cabb910)] -> link text: Log in]
+2024-01-09 22:01:292 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (06a5bbd32ea51e49666f05aa6b00e967)] -> link text: Log in]
